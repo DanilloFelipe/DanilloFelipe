@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanilloFelipe
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python and Java
 - 🌱 I’m currently learning Django
 - 📫 How to reach me ...@Danill0Fel1pe
 
